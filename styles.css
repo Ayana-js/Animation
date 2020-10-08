@@ -58,11 +58,11 @@
 }
 
 .button:before{
-    animation: rotate 20s infinite linear;   
+    animation: rotate 20s infinite linear;
 }
 
 .button:after{
-    animation: rotate 25s infinite linear;   
+    animation: rotate 25s infinite linear;
 }
 
 .button__text:before {
